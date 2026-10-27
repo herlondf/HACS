@@ -1,0 +1,3 @@
+[submodule "ha-briefing"]
+	path = ha-briefing
+	url = https://github.com/herlondf/ha-briefing.git
