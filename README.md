@@ -6,7 +6,7 @@ Cada integração tem o próprio repositório (o HACS exige `custom_components/`
 
 | Integração | Repositório | O que faz |
 |---|---|---|
-| Briefing | [herlondf/ha-briefing](https://github.com/herlondf/ha-briefing) | Resumo falado do dia: agenda, clima, notícias e fatos da casa |
+| IA Briefing | [herlondf/ha-briefing](https://github.com/herlondf/ha-briefing) | Resumo falado do dia: agenda, clima, notícias e fatos da casa |
 
 ## Instalar uma integração
 HACS → ⋮ → Repositórios personalizados → URL do repositório da integração, tipo **Integração**.
